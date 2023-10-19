@@ -31,4 +31,4 @@ Config.NoRobWeapons = {
     "WEAPON_SmokeGrenade",
 }
 
-
+-- All Rights For LXR DEV
