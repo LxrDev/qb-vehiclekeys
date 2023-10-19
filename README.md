@@ -9,11 +9,11 @@ discord.gg/R9KgyCkXJp
 
 Requirements :
 
-qb-core
-qb-policejob
-Stpes :
+skillbar
 
 -------------------------------------------------------
+
+Stpes :
 
 To Avoid The Problems And Cmd Crashes Delete The -main- Word qb-vehicle-main --> qb-vehicle
 
