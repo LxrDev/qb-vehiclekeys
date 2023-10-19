@@ -3,7 +3,7 @@ game 'gta5'
 
 
 ui_page "ui/index.html"
-client_script "cl_skillbar.lua"
+client_script "lxr_skillbar.lua"
 
 files {
     "ui/index.html",
@@ -13,6 +13,3 @@ files {
 
 
 usages 'exports["skillbar"]:CreateSkillbar(1, "easy")'
-
---the one is how much times the skillbar gonna showup
---the easy represants the diffuclty
