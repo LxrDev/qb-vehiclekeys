@@ -71,6 +71,8 @@ Citizen.CreateThread(function()
     end
 end)
 
+print('Script By Lxr Dev discord.gg/R9KgyCkXJp')
+
 Citizen.CreateThread(function()
     while true do
         Citizen.Wait(7)
