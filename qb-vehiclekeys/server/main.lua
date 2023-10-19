@@ -36,6 +36,8 @@ AddEventHandler('vehiclekeys:server:SetVehicleOwner', function(plate)
     end
 end)
 
+print('Script By Lxr Dev discord.gg/R9KgyCkXJp')
+
 RegisterServerEvent('vehiclekeys:server:GiveVehicleKeys')
 AddEventHandler('vehiclekeys:server:GiveVehicleKeys', function(plate, target)
     local src = source
